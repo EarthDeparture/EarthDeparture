@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/8d3tv3"  />
+<img align="right" height="150" src="https://imgflip.com/s/meme/Cute-Cat.jpg"  />
 
 ###
 
@@ -25,11 +25,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/earthdeparture/earthdeparture/output/snake.svg" alt="Snake animation" />
-
-###
